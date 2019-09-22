@@ -1,2 +1,2 @@
-# info2180-lab2
-Repository for INFO2180 coursework
+# INFO2180 Lab 2
+This is Lab 2 for Cargill Seiveright
